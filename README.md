@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satwik Anand Chauhan
 - 👀 I’m interested in Coding and fix errors in codes.
-- 🌱 I’m currently learning programming language.
+- 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on open-source project.
 
 <!---
